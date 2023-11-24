@@ -1,17 +1,6 @@
 # **eduXpert**   
 
 
-#### Team Name : **GeekLords**
-
-## 👩‍💻 Team members
-
-- **Avishkar Chavle** - aschavle_b20@ce.vjti.ac.in
-- **Shriahail Dolle** - aasolle_b20@et.vjti.ac.in
-- **Apurv Sonawane** - arsonawane_b20@et.vjti.ac.in
-- **Dushant Harinkhede** - dtharinkhede_b20@ce.vjti.ac.in
-- **Harsh Gawli** - hpgawli_b20@ce.vjti.ac.in
-- **Kanhaiyya Shendage** - kdshendage_b20@et.vjti.ac.in
-
 
 ## 📝 Description
 * This app will be useful for both students and teachers out there.They will have to fill their data such as name,education,specialization,fees,time and mode of teaching/learning(online/offline) etc. Website will find the matches and suggest them to each other.
