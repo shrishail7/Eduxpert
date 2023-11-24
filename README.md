@@ -7,7 +7,6 @@
 
 ## 🔗 Links
 
-- GitHub repo link: [Link to repository](https://github.com/Apurv428/eduxpert)
 - Drive link : [Drive link here](https://drive.google.com/folderview?id=1G2WvTLHUuoncGxovpKrUMb95g5kaXexA)
 
 ## 🤖 Technology Stack
@@ -27,7 +26,7 @@
 1. Clone the repository
 
 
-git clone https://github.com/Apurv428/eduxpert
+git clone https://github.com/shrishail7/eduxpert
 
 
 2. Install Node.js (JavaScript runtime environment) and MongoDB(document-oriented database program)
