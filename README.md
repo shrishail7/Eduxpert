@@ -6,7 +6,7 @@
 ## 👩‍💻 Team members
 
 - **Avishkar Chavle** - aschavle_b20@ce.vjti.ac.in
-- **Anshika Sharma** - asharma_b20@ce.vjti.ac.in
+- **Shriahail Dolle** - aasolle_b20@et.vjti.ac.in
 - **Apurv Sonawane** - arsonawane_b20@et.vjti.ac.in
 - **Dushant Harinkhede** - dtharinkhede_b20@ce.vjti.ac.in
 - **Harsh Gawli** - hpgawli_b20@ce.vjti.ac.in
